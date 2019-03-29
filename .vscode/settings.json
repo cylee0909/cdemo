@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "sbst.h": "c",
+        "unistd.h": "c",
+        "bitsperlong.h": "c"
+    }
+}
