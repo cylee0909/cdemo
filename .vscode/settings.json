@@ -3,6 +3,10 @@
     "files.associations": {
         "sbst.h": "c",
         "unistd.h": "c",
-        "bitsperlong.h": "c"
+        "bitsperlong.h": "c",
+        "libc-version.h": "c",
+        "errno.h": "c",
+        "errno-base.h": "c",
+        "types.h": "c"
     }
 }
